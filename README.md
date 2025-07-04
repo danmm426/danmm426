@@ -5,18 +5,19 @@
   text-align: center; 
   gap: 10px;
 ">
-  <span style="
-    font-size: 40px; 
+  <h1 style="
+    margin: 0;
+    font-size: 40px;
     font-weight: bold;
   ">
     Hola, Soy Dani
-  </span>
+  </h1>
   <img 
     src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" 
     alt="bongo-cat" 
-    width="50" 
-    style="vertical-align: middle;">
+    width="50">
 </div>
+
 
 
 <a target="_blank" align="center">
