@@ -1,22 +1,18 @@
-<div style="
-  display: flex; 
-  justify-content: center; 
-  align-items: center; 
-  text-align: center; 
-  gap: 10px;
+<h1 style="
+  text-align: center;
+  display: inline-block;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0;
+  width: 100%;
 ">
-  <h1 style="
-    margin: 0;
-    font-size: 40px;
-    font-weight: bold;
-  ">
-    Hola, Soy Dani
-  </h1>
+  Hola, Soy Dani
   <img 
     src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" 
     alt="bongo-cat" 
-    width="50">
-</div>
+    width="50" 
+    style="vertical-align: middle; margin-left: 10px;">
+</h1>
 
 
 
