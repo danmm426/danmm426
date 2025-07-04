@@ -1,10 +1,12 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <h1 style="margin: 0;">Hola, Soy Dani</h1>
+<div align="center">
+  <span style="font-size: 32px; font-weight: bold;">
+    Hola, Soy Dani
+  </span>
   <img 
     src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" 
     alt="bongo-cat" 
     width="50" 
-    style="vertical-align: middle;">
+    style="vertical-align: middle; margin-left: 10px;">
 </div>
 
 
