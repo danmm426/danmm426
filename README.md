@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="font-size: 32px; font-weight: bold;">
+  <span style="font-size: 40px; font-weight: bold;">
     Hola, Soy Dani
   </span>
   <img 
@@ -8,6 +8,7 @@
     width="50" 
     style="vertical-align: middle; margin-left: 10px;">
 </div>
+
 
 
 
