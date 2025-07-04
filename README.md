@@ -1,20 +1,12 @@
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <h1 style="margin: 0;">Hola, Soy Dani</h1>
   <img 
-    alt="Hola" 
-    height="50px" 
-    width="50px" 
-    src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"
-    style="vertical-align: middle;">
-  <h1 style="display: inline-block; margin: 0 10px; vertical-align: middle;">
-    Hola, Soy Dani
-  </h1>
-  <img 
-    height="50px" 
-    width="50px" 
-    alt="Hola" 
-    src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png"
+    src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" 
+    alt="bongo-cat" 
+    width="50" 
     style="vertical-align: middle;">
 </div>
+
 
 
 
