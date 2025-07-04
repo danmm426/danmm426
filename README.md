@@ -1,7 +1,19 @@
 <div align="center">
-<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
-<img alt="Hola" align="center" height="50%" width="100%" src="https://see.fontimg.com/api/renderfont4/2O6xe/eyJyIjoiZnMiLCJoIjoyMywidyI6MTAwMCwiZnMiOjIzLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gSSdtIFNhbnNrYXIgU2FodSB8fCBEU21hcmsg/organical-personal-use-bold-italic.png"></img><br>
-<img height="80px" align="center" width="80" alt="Hola" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png"></img>
+  <img 
+    alt="Hola" 
+    height="50px" 
+    width="50px" 
+    src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"
+    style="vertical-align: middle;">
+  <h1 style="display: inline-block; margin: 0 10px; vertical-align: middle;">
+    Hola, Soy Dani
+  </h1>
+  <img 
+    height="50px" 
+    width="50px" 
+    alt="Hola" 
+    src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png"
+    style="vertical-align: middle;">
 </div>
 
 
