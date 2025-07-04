@@ -1,6 +1,10 @@
 <h1 align="center">
   Hola, Soy Dani 
-  <img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" alt="bongo-cat" height="40">
+  <img 
+    src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" 
+    alt="bongo-cat" 
+    height="40"
+    style="vertical-align: middle;">
 </h1>
 
 
