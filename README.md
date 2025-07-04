@@ -3,7 +3,7 @@
   <img 
     src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" 
     alt="bongo-cat" 
-    height="20"
+    height="5"
     style="vertical-align: middle;">
 </h1>
 
