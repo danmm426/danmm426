@@ -5,7 +5,7 @@
   <img 
     src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" 
     alt="bongo-cat" 
-    width="80">
+    width="10">
 </div>
 
 
